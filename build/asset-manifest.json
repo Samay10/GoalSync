@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.js": "/static/js/main.21edcc7a.js",
+    "runtime-main.js": "/static/js/runtime-main.03880eeb.js",
+    "static/js/336.6f57173b.js": "/static/js/336.6f57173b.js",
+    "index.html": "/index.html",
+    "main.21edcc7a.js.map": "/static/js/main.21edcc7a.js.map",
+    "runtime-main.03880eeb.js.map": "/static/js/runtime-main.03880eeb.js.map",
+    "336.6f57173b.js.map": "/static/js/336.6f57173b.js.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.03880eeb.js",
+    "static/js/336.6f57173b.js",
+    "static/js/main.21edcc7a.js"
+  ]
+}
